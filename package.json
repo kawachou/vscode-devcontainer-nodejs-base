@@ -1,0 +1,9 @@
+{
+  "name": "vscode-devcontainer-nodejs-base",
+  "version": "1.0.0",
+  "description": "Node.js",
+  "author": "First Last <first.last@example.com>",
+  "main": "server.js",
+  "scripts": {},
+  "dependencies": {}
+}
